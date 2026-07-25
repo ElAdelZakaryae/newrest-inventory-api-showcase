@@ -1,0 +1,34 @@
+{
+  "inventoryId": "INV-DEMO-2026-001",
+  "title": "Demo Daily Inventory",
+  "site": {
+    "siteId": "SITE-DEMO",
+    "siteName": "Demo Site"
+  },
+  "location": {
+    "locationId": "LOC-DEMO",
+    "locationName": "Main Storage"
+  },
+  "date": "2026-07-25",
+  "status": "draft",
+  "createdByID": "USR-DEMO-001",
+  "createdByName": "Demo Manager",
+  "createdAt": "2026-07-25T09:00:00",
+  "submittedAt": null,
+  "submittedByID": null,
+  "submittedByName": null,
+  "note": "Sanitized portfolio example",
+  "items": [
+    {
+      "itemId": "ITEM-DEMO-001",
+      "inventoryId": "INV-DEMO-2026-001",
+      "productId": "DEMO-SKU-001",
+      "productName": "Example Product",
+      "sku": "DEMO-SKU-001",
+      "countedQty": 42.0,
+      "theoreticalQtySnapshot": 45.0,
+      "dlc": "2026-08-15",
+      "note": null
+    }
+  ]
+}

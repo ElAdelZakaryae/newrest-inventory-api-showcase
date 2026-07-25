@@ -1,0 +1,16 @@
+{
+  "sku": "DEMO-SKU-002",
+  "name": "Example Low-Stock Product",
+  "category": "Example Category",
+  "isActive": true,
+  "unit": "unit",
+  "supplier": "Example Supplier",
+  "unitPrice": 12.5,
+  "lotNumber": "LOT-DEMO-01",
+  "dlc": "2026-08-15",
+  "minQty": 10.0,
+  "maxQty": 30.0,
+  "expiryWindowDays": 7,
+  "currentQty": 8.0,
+  "theoreticalQty": 9.0
+}

@@ -1,0 +1,20 @@
+{
+  "reference": "ORD-DEMO-2026-001",
+  "supplier": "Example Supplier",
+  "site": "DEMO-SITE",
+  "orderDate": "2026-07-25",
+  "expectedDate": "2026-07-28",
+  "status": "pending",
+  "note": "Sanitized portfolio example",
+  "createdById": "USR-DEMO-001",
+  "createdByName": "Demo Manager",
+  "items": [
+    {
+      "sku": "DEMO-SKU-002",
+      "productName": "Example Low-Stock Product",
+      "unit": "unit",
+      "unitPrice": 12.5,
+      "quantity": 22
+    }
+  ]
+}

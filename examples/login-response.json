@@ -1,0 +1,12 @@
+{
+  "id": "USR-DEMO-001",
+  "email": "demo.manager@example.com",
+  "firstName": "Demo",
+  "lastName": "Manager",
+  "site": "DEMO-SITE",
+  "role": "Manager",
+  "profileImageUrl": null,
+  "token": "example-random-token-not-valid",
+  "status": "Active",
+  "lastLoginAt": "2026-07-25T10:30:00"
+}
