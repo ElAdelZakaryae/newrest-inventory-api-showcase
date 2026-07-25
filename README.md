@@ -132,17 +132,40 @@ This repository excludes production source code, database credentials, environme
 
 **EL-ADEL Zakaryae**
 
-- [GitHub](https://github.com/ElAdelZakaryae)
-- [LinkedIn](https://www.linkedin.com/in/el-adel-zakaryae-156b782b0/)
-- [Email](mailto:eladel.zakaryae.15@gmail.com)
-<a
-  href="https://mail.google.com/mail/?view=cm&fs=1&to=eladel.zakaryae.15@gmail.com"
-  target="_blank"
-  rel="noreferrer"
->
-  <img
-    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Send me an email"
-  />
-</a>
+<h2 align="left">Connect with Me</h2>
+
+<p align="left">
+  <a
+    href="https://github.com/ElAdelZakaryae"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub profile"
+    />
+  </a>
+
+  <a
+    href="https://www.linkedin.com/in/el-adel-zakaryae-156b782b0/"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn profile"
+    />
+  </a>
+
+  <a
+    href="https://mail.google.com/mail/?view=cm&fs=1&to=eladel.zakaryae.15@gmail.com&su=Contact%20from%20GitHub"
+    target="_blank"
+    rel="noreferrer"
+  >
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Send an email"
+    />
+  </a>
+</p>
 
